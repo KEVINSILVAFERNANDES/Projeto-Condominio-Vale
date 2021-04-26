@@ -30,7 +30,7 @@ export default () => {
                 ]
             )
         }else{
-            const newUsersList = [...usersList,{id: uuidv4(), userName: userName, cpf: cpf, login: login, password: password}];
+            const newUsersList = [...usersList,{ userName: userName, cpf: cpf, login: login, password: password}];
             setUsersList(newUsersList);
             try {
                 await AsyncStorage.setItem('@users',JSON.stringify(newUsersList));
