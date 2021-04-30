@@ -3,6 +3,8 @@
 Projeto react-native feito para Condomínio, com telas de Login e Cadadastro, ambas com armazenamento em Async-Storage e 
 telas de regra de negócio, Achados e Perdidos, Mural de Avisos e Agendamentos. 
 
+Vídeo de apresentação do App: https://drive.google.com/file/d/143BfNKP0f6vadXZOa-f1-jVakiveqIvQ/view?usp=sharing
+
 Equipe do projeto / Telas:
 - KEVIN SILVA FERNANDES - Telas: Login, Cadastro, Inicial e Achados e Perdidos. 
 Git: KEVINSILVAFERNANDES. Matricula: 205190012. Curso: Análise e desenvolvimento de sistemas.
