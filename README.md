@@ -14,7 +14,7 @@ Git: CaioBahia12. Matricula: 144171034. Curso: Análise e desenvolvimento de sis
 Git: GuilhermeAlmeida12. Matricula: 205190064. Curso: Análise e desenvolvimento de sistemas.
 
 
-Os Crud's de Achados e Perdidos, Mural de Avisos e Agendamentos, todos foram implementados com Comtext API e Hooks.
+Os Crud's de Achados e Perdidos, Mural de Avisos e Agendamentos, todos foram implementados com Context API e Hooks.
 Todos tiveram participação na construção das telas de login, cadastro e Inicial.
 
 Professor Responsavel: ARISTÓTELES MARCAL.
