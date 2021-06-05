@@ -1,15 +1,15 @@
 import http from "../http-common"
 
 const getAll = () => {
-    return http.get("/cliente")
+    return http.get("/user")
 }
 
 const get = id => {
-    return http.get(`/cliente/${id}`)
+    return http.get(`/user/${id}`)
 }
 
 const create = data => {
-    return http.post("/cliente/", data)
+    return http.post("/user/", data)
 }
 
 const update = (id, data) => {
@@ -17,7 +17,7 @@ const update = (id, data) => {
 }
 
 const remove = id => {
-    return http.delete(`/cliente/${id}`)
+    return http.delete(`/user/${id}`)
 }
 
 export default {
