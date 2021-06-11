@@ -19,5 +19,12 @@ Git: GuilhermeAlmeida12. Matricula: 205190064. Curso: Análise e desenvolvimento
 Os Crud's de Achados e Perdidos, Mural de Avisos e Agendamentos, todos foram implementados com Context API e Hooks.
 Todos tiveram participação na construção das telas de login, cadastro e Inicial.
 
+======== N2 ===========
+
+Atualizações e melhorias gerais nas telas e no sistema
+Implementação do API REST
+Novos Core Components, onde inclumos mais 2, totalizando 6 Core Components
+
+
 Professor Responsavel: ARISTÓTELES MARCAL.
 Matéria: Computação para Dispositivos Moveis.
