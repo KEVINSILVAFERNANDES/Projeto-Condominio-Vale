@@ -35,6 +35,7 @@ export default props => {
             
             <Text>Local: <ListItem.Title>{user.local}</ListItem.Title></Text>
             <Text>Data: <ListItem.Subtitle>{user.data}</ListItem.Subtitle></Text>
+            <Text>Prédio: <ListItem.Title>{user.predio}</ListItem.Title></Text>
             <Text>Apartamento: <ListItem.Subtitle>{user.apartamento}</ListItem.Subtitle></Text> 
             </ListItem.Content>
             <Button
