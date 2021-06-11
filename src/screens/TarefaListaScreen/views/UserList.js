@@ -35,6 +35,7 @@ export default props => {
             
             <ListItem.Title>{user.titulo}</ListItem.Title>
             <ListItem.Subtitle>{user.aviso}</ListItem.Subtitle>
+            <Text>Prédio: <ListItem.Title>{user.predio}</ListItem.Title></Text>
             </ListItem.Content>
             <Button
                     onPress={() => props.navigation.navigate('UserForm', user)}
